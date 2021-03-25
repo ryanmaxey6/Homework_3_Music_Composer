@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework 3</string>
+    <string-array name="songs_array">
+        <item>Go Tech Go!</item>
+        <item>Enter Sandman</item>
+        <item>Gameday Rock</item>
+    </string-array>
+    <string-array name="sounds_array">
+        <item>Clapping</item>
+        <item>Cheering</item>
+        <item>Go Hokies!</item>
+    </string-array>
+</resources>
